@@ -1,3 +1,1 @@
-# Cara Membuat Program HTML Sederhana
-Langkah Petama Buka Aplikasi VS Code
-C:\Users\Diska\Downloads\271755419-3bfe629c-e858-41fe-b63d-33be00a29018.png
+![logo_UPB](https://github.com/Diska404/Lab1Web/assets/115615910/45f4fb66-5d23-4863-a1b7-39eb811f95de)
